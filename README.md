@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working on React Native
 
-- 🌱 I’m currently learning JavaScript, TypeScript, React, React Native
-
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/fatih-aydemir-b5a4921a9/">
                         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
                       </a>
